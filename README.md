@@ -13,4 +13,4 @@ To run the notebooks in the analysis directory you will need to install the foll
 * [PyCairo](https://github.com/pygobject/pycairo)
 
 
-[Slides](narratives-in-networks.surge.sh)
+Slides: narratives-in-networks.surge.sh
